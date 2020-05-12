@@ -1,4 +1,4 @@
-#get_youtubelive_comment
+# get_youtubelive_comment
 # youtubeliveのコメントを取得  
 
 ##### 1  
