@@ -29,3 +29,7 @@ absolute_path = '絶対パス'
 - channel_url = 'チャンネルのurl'  
 - x = 55_000(動画400個で55,000。もし、最後まで動画が取得出来なければ'x'を適宜変更)  
 - print(coe.mninj(channel_url, x))  
+  
+______  
+- 参考にさせて頂いたページ
+　　- [Hatene Blog] (http://watagassy.hatenablog.com/entry/2018/10/08/132939)
