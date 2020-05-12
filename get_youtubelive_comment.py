@@ -14,7 +14,7 @@ def main():
     target_urls = ['https://www.youtube.com/watch?v=ljA6mKiTQuc',
                    'https://www.youtube.com/watch?v=VVQdAdUdowE',
                    ]
-    # ファイルを保存する場所("絶対パス")
+    # ファイルを保存したい、する場所("絶対パス")
     absolute_path = "D:\comments"
 
     # 紫咲シオンという人のチャンネルの動画urlを全て取得
