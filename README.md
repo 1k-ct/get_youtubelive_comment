@@ -17,12 +17,12 @@ absolute_path = '絶対パス'
 
 (1),youtube live のコメメントをjson形式で取得(1,をインストール)  
 def main():  
-    target_urls = ['動画url(https: ~ /watch?v=)',  
-                   '動画url(https: ~ /watch?v=)',  
+    target_urls = ["動画url(https: ~ /watch?v=)",  
+                   "動画url(https: ~ /watch?v=)",  
                    ]  
-    <span>　  </span> fuuso(target_url, absolute_path)   
+    <span>　      </span> fuuso(target_url, absolute_path)   
     #target_urlsはlist  
-<span>　</span> 
+  
 (2),(1)を使ってグラフ描画(2,をインストール)  
 def main():  
     target_url = 'グラフで描画したい動画url'  
