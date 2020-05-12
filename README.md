@@ -20,7 +20,7 @@ absolute_path = '絶対パス'
 - fuuso(target_url, absolute_path)   
 #target_urlsはlist  
   
-#### *(2), (1)を使ってグラフ描画(2,をインストール)*  
+#### *(2), &nbsp; (1)を使ってグラフ描画(2,をインストール)*  
 - target_url = 'グラフで描画したい動画url'  
 - read_json_comment.show_graph(target_url, absolute_path)  
   
@@ -31,5 +31,5 @@ absolute_path = '絶対パス'
 - print(coe.mninj(channel_url, x))  
   
 ______  
-# -  参考にさせて頂いたページ  
+ -  参考にさせて頂いたページ  
      - [Hatena Blog](http://watagassy.hatenablog.com/entry/2018/10/08/132939)
