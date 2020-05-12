@@ -20,7 +20,7 @@ def main():
     target_urls = ["動画url(https: ~ /watch?v=)",  
                    "動画url(https: ~ /watch?v=)",  
                    ]  
-    <span>　      </span> fuuso(target_url, absolute_path)   
+    <span></span> fuuso(target_url, absolute_path)   
     #target_urlsはlist  
   
 (2),(1)を使ってグラフ描画(2,をインストール)  
