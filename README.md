@@ -32,4 +32,4 @@ absolute_path = '絶対パス'
   
 ______  
 - 参考にさせて頂いたページ  
-　　- [Hatene Blog](http://watagassy.hatenablog.com/entry/2018/10/08/132939)
+     - [Hatena Blog](http://watagassy.hatenablog.com/entry/2018/10/08/132939)
