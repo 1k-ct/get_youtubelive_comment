@@ -1,2 +1,0 @@
-print("some comment"
-)
