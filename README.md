@@ -31,5 +31,5 @@ absolute_path = '絶対パス'
 - print(coe.mninj(channel_url, x))  
   
 ______  
-- 参考にさせて頂いたページ
-　　- [Hatene Blog] (http://watagassy.hatenablog.com/entry/2018/10/08/132939)
+- 参考にさせて頂いたページ  
+　　- [Hatene Blog](http://watagassy.hatenablog.com/entry/2018/10/08/132939)
