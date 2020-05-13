@@ -41,6 +41,7 @@ def main():
   
 >##### 3  
 >pip install pyautogui  
+>pip install selenium  
   
 _____  
  -  参考にさせて頂いたページ  
