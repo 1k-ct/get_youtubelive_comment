@@ -1,8 +1,12 @@
-# get_youtubelive_comment
+
+
+
+### もし、見ている方がいるなら今すぐ、この下の２つのURLを見てください。  
+- https://github.com/taizan-hokuto/pytchat  
+- https://github.com/taizan-hokuto/pytchat/wiki/Home_jp  
+-----
+# （追加と注意）！！！現在このプログラムは動きません。！！！  
 # youtubeliveのコメントを取得  
-
-
-  
 * ファイルを保存する場所の設定
   * absolute_path = '絶対パス'  
 
